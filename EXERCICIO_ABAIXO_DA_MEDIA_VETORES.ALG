@@ -23,7 +23,7 @@ Inicio
  media <- soma / n
  
  escreval
- escreval("Média do vetor: ", media:5:3)
+ escreval("Média do vetor:", media:5:3)
  
  escreval("Elementos abaixo da média: ")
  para i de 0 ate n - 1 faca
